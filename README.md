@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ 2 years experience in Backend with laravel.<br>✨ 2 years experience in frontend with bootstrap5.<br>📚 I'm currently learning AI engineering.<br>🎯 Goals: Work before work</p>
+<p align="left">✨ 2 years experience in Backend with laravel.<br>✨ 2 years experience in frontend with bootstrap5.<br>📚 I'm currently learning AI engineering.<br>🎯 Goals: Work before the work</p>
 
 ###
 
